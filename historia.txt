@@ -1,4 +1,10 @@
 Esta es la vida de Nicolás y obra maestra. Tengo 33 años
 LONG MELI
 
+<<<<<<< HEAD
 y también Long AMZN !
+=======
+y también Long AMZN !
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> cabecera
